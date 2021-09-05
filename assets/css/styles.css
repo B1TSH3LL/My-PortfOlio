@@ -169,7 +169,7 @@ img {
   .home__img {
     position: absolute;
     top: 380px;
-    left: 30px;
+    left: 10%;
   }
   .footer_text {
     width: 80%;
