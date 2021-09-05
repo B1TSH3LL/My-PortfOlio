@@ -169,11 +169,12 @@ img {
   .home__img {
     position: absolute;
     top: 380px;
+    left: 30px;
   }
   .footer_text {
     width: 80%;
     position: relative;
-    left: 0px;
+    left: 40px;
   }
 }
 .nav__item {
