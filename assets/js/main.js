@@ -55,23 +55,26 @@ sr.reveal('.skills__text', {});
 sr.reveal('.skills__data', { interval: 200 });
 sr.reveal('.skills__img', { delay: 600 });
 
-sr.reveal('.rect', { delay: 100 });
-sr.reveal('.box1', { interval: 600 });
-sr.reveal('.rect2', { delay: 100 });
-sr.reveal('.box2', { interval: 600 });
-sr.reveal('.rect3', { delay: 100 });
-sr.reveal('.box3', { interval: 600 });
-sr.reveal('.box-heading', { delay: 100});
-sr.reveal('.box-heading-content', { delay: 100});
-sr.reveal('.box-heading-content-date', { delay: 100});
+// sr.reveal('.rect', { delay: 100 });
+// sr.reveal('.box1', { interval: 600 });
+// sr.reveal('.rect2', { delay: 100 });
+// sr.reveal('.box2', { interval: 600 });
+// sr.reveal('.rect3', { delay: 100 });
+// sr.reveal('.box3', { interval: 600 });
+// sr.reveal('.box-heading', { delay: 100});
+// sr.reveal('.box-heading-content', { delay: 100});
+// sr.reveal('.box-heading-content-date', { delay: 100});
 
-sr.reveal('.box-heading2', { delay: 100});
-sr.reveal('.box-heading-content2', { delay: 100});
-sr.reveal('.box-heading-content-date2', { delay: 100});
+// sr.reveal('.box-heading2', { delay: 100});
+// sr.reveal('.box-heading-content2', { delay: 100});
+// sr.reveal('.box-heading-content-date2', { delay: 100});
 
-sr.reveal('.box-heading3', { delay: 100});
-sr.reveal('.box-heading-content3', { delay: 100});
-sr.reveal('.box-heading-content-date3', { delay: 100});
+// sr.reveal('.box-heading3', { delay: 100});
+// sr.reveal('.box-heading-content3', { delay: 100});
+// sr.reveal('.box-heading-content-date3', { delay: 100});
+
+
+sr.reveal('.my-1', { interval: 600 });
 
 
 sr.reveal('.work__img', { interval: 200 });

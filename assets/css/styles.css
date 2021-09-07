@@ -177,7 +177,7 @@ img {
   }
   .home__img {
     position: absolute;
-    top: 380px;
+    top: 300px;
     left: 10%;
   }
   .footer_text {
@@ -655,7 +655,6 @@ color: rgba(77, 77, 77, 0.5);
   color: #fff;
   margin: 0 var(--mb-2);
 }
-
 
 @media screen and (min-width: 768px) {
   body {
