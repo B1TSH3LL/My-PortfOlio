@@ -1,0 +1,188 @@
+@media only screen and (max-width:  667px) {
+
+    .box1 {
+        position: absolute;
+    width: 91%;
+    height: 255px;
+    left: 20px;
+    top: 1500px;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 4px rgb(0 0 0 / 10%);
+    border-radius: 6px;
+    }
+    .rect {
+        position: absolute;
+        width: 91%;
+        height: 158.52px;
+        left: 20px;
+        top: 1500px;
+        background: #053B6E;
+        border-radius: 6px 6px 0px 0px;
+    }
+    .box-heading {
+        position: absolute;
+        width: 270px;
+        height: 23px;
+        left: 40px;
+        top: 1670px;
+        font-family: 'Lato', sans-serif;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 18px;
+        line-height: 22px;
+        color: #4D4D4D;
+    }
+    .box-heading-content {
+        position: absolute;
+        width: 289px;
+        height: 18px;
+        left: 40px;
+        top: 1700px;
+        font-family: 'Lato', sans-serif;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 12px;
+        line-height: 14px;
+        color: #4D4D4D;
+    }
+    .box-heading-content-date {
+        position: absolute;
+        width: 95.52px;
+        height: 16.26px;
+        left: 40px;
+        top: 1712px;
+        font-family: 'Lato', sans-serif;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 12px;
+        line-height: 14px;
+        color: rgba(77, 77, 77, 0.5);
+    }
+
+
+    .box2 {
+        position: absolute;
+    width: 91%;
+    height: 255px;
+    left: 20px;
+    top: 1800px;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 4px rgb(0 0 0 / 10%);
+    border-radius: 6px;
+    }
+    .rect2 {
+        position: absolute;
+        width: 91%;
+        height: 158.52px;
+        left: 20px;
+        top: 1800px;
+        background: #053B6E;
+        border-radius: 6px 6px 0px 0px;
+    }
+    .box-heading2 {
+        position: absolute;
+        width: 270px;
+        height: 23px;
+        left: 40px;
+        top: 1970px;
+        font-family: 'Lato', sans-serif;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 18px;
+        line-height: 22px;
+        color: #4D4D4D;
+    }
+    .box-heading-content2 {
+        position: absolute;
+        width: 289px;
+        height: 18px;
+        left: 40px;
+        top: 2000px;
+        font-family: 'Lato', sans-serif;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 12px;
+        line-height: 14px;
+        color: #4D4D4D;
+    }
+    .box-heading-content-date2 {
+        position: absolute;
+        width: 95.52px;
+        height: 16.26px;
+        left: 40px;
+        top: 2012px;
+        font-family: 'Lato', sans-serif;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 12px;
+        line-height: 14px;
+        color: rgba(77, 77, 77, 0.5);
+    }
+
+
+
+    .box3 {
+        position: absolute;
+    width: 91%;
+    height: 255px;
+    left: 20px;
+    top: 2100px;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 4px rgb(0 0 0 / 10%);
+    border-radius: 6px;
+    }
+    .rect3 {
+        position: absolute;
+        width: 91%;
+        height: 158.52px;
+        left: 20px;
+        top: 2100px;
+        background: #053B6E;
+        border-radius: 6px 6px 0px 0px;
+    }
+    .box-heading3 {
+        position: absolute;
+        width: 270px;
+        height: 23px;
+        left: 40px;
+        top: 2270px;
+        font-family: 'Lato', sans-serif;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 18px;
+        line-height: 22px;
+        color: #4D4D4D;
+    }
+    .box-heading-content3 {
+        position: absolute;
+        width: 289px;
+        height: 18px;
+        left: 40px;
+        top: 2300px;
+        font-family: 'Lato', sans-serif;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 12px;
+        line-height: 14px;
+        color: #4D4D4D;
+    }
+    .box-heading-content-date3 {
+        position: absolute;
+        width: 95.52px;
+        height: 16.26px;
+        left: 40px;
+        top: 2312px;
+        font-family: 'Lato', sans-serif;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 12px;
+        line-height: 14px;
+        color: rgba(77, 77, 77, 0.5);
+    }
+
+    .br_mobile {
+        display: flex;
+    }
+
+
+  }
