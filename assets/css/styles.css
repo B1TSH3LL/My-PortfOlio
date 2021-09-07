@@ -628,7 +628,6 @@ color: rgba(77, 77, 77, 0.5);
 }
 .contact__button {
   display: block;
-  border: none;
   outline: none;
   font-size: var(--normal-font-size);
   cursor: pointer;
