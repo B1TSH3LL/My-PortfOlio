@@ -580,6 +580,9 @@ color: rgba(77, 77, 77, 0.5);
 .skills__c {
   width: 65%;
 }
+.skills__ux {
+  width: 50%;
+}
 .skills__img {
   border-radius: 0.5rem;
 }
