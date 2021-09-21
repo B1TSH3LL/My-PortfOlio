@@ -186,3 +186,31 @@
 
 
   } */
+
+  @media only screen and (max-width:  768px) {
+      .skills__text {
+          padding-left: 10px;
+          padding-right: 3px;
+      }
+
+      .os-sect {
+          position: relative;
+          top: 20px;
+      }
+      .skills__subtitle3 {
+    position: relative;
+    top: 10px;
+    padding: 0px;
+    margin-top: 50px;
+    left: 0px;
+  }
+
+  .skills__subtitle2 {
+    position: relative;
+    top: 1px;
+    margin-bottom: 10px;
+    padding-top: 1px;
+    padding: 0px;
+    left: 0px;
+  }
+}

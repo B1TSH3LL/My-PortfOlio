@@ -51,9 +51,14 @@ sr.reveal('.about__text', { delay: 400 });
 
 
 sr.reveal('.skills__subtitle', {});
+sr.reveal('.skills__subtitle2', {});
+sr.reveal('.skills__subtitle3', {});
 sr.reveal('.skills__text', {});
+sr.reveal('.htb_center', {});
 sr.reveal('.skills__data', { interval: 200 });
-sr.reveal('.skills__img', { delay: 600 });
+sr.reveal('.os-sect', { interval: 200 });
+sr.reveal('.op-sect', { interval: 200 });
+// sr.reveal('.skills__img', { delay: 600 });
 
 // sr.reveal('.rect', { delay: 100 });
 // sr.reveal('.box1', { interval: 600 });
