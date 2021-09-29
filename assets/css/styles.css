@@ -147,6 +147,7 @@ img {
   position: fixed;
   top: 0;
   left: 0;
+  cursor: pointer;
   z-index: var(--z-fixed);
   background-color: #1B1B1B;
   box-shadow: 0 1px 4px rgba(146, 161, 176, 0.15);
@@ -160,6 +161,7 @@ img {
   justify-content: space-between;
   align-items: center;
   font-weight: var(--font-semi);
+  cursor: pointer;
 }
 @media only screen and (max-width: 768px) {
   .nav__menu {
